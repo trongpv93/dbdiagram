@@ -1,9 +1,10 @@
 {
-  "name": "dbdiagram-oss",
+  "homepage": "http://trongpv93.github.io/dbdiagram",
+  "name": "dbdiagram",
   "version": "0.0.1",
   "description": "An Open-Source dbdiagram.io",
   "productName": "DB Diagram OSS",
-  "author": "Dan Spiteri <trudan97@gmail.com>",
+  "author": "trongpv<trongpv93@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "quasar dev",
